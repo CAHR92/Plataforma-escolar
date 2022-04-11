@@ -1,0 +1,62 @@
+.bar {
+    
+    margin-bottom: 5px;
+    margin-top: 10px;
+    width: 50%;
+
+}
+.buscar {
+    display: row;
+    flex-direction: column;
+    margin-left: 10px;
+}
+.buscar label {
+    margin-right: 10px;
+}
+.nav {
+    background-color: black;
+    display: block;
+}
+.navigation {
+    
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    justify-content: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.link{
+    color: white;
+    font-size: 20px;
+    
+}
+.modal-grid{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    
+}
+.modal h3 {
+    text-transform: uppercase;
+}
+.modal h3 span {
+    
+    text-align: center;
+    text-transform: none;
+}
+.navi{
+    margin: 0 auto;
+    margin-bottom: 20px;
+    margin-right: 10px;
+}
+.btn-nav {
+    
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 10px;
+    justify-content: right;
+    padding: 10px ;
+    background-color: white
+    ;
+   
+}

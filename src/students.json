@@ -1,0 +1,2102 @@
+{
+    "success": true,
+    "students": [
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 1554
+          },
+          "costs": {
+            "total": 5600
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.062Z",
+        "groups": [
+          "61f73e23730b775baf44856b",
+          "61feabe6b2670e5baa494068",
+          "61feb1d6b2670e5baa494568",
+          "61feb8a73e9d8d5bb69e1dee",
+          "61743bb743922b5c5169218f"
+        ],
+        "freeLessonGroups": [],
+        "courses": [
+          "5c02310a5d6f712db49d3101",
+          "5c02310a5d6f712db49d30fd"
+        ],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd3dd8",
+        "lastName": "De La Cruz",
+        "secondLastName": "Morales",
+        "name": "Edith",
+        "email": "paomeef@yahoo.com.mx",
+        "phoneNumber": "5526780425",
+        "registeredBy": "5c02315b2e8bb62de06273de",
+        "name_lower": "edith",
+        "lastName_lower": "de la cruz",
+        "email_lower": "paomeef@yahoo.com.mx",
+        "debt": true,
+        "firstLastName_lower": "edith de la cruz",
+        "fullName_lower": "edith de la cruz morales",
+        "secondLastName_lower": "morales",
+        "groupsInfo": [],
+        "lastNames_lower": "de la cruz morales",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 500,
+            "total": 1200
+          },
+          "costs": {
+            "total": 6000
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": true,
+        "registerDate": "2018-12-01T07:00:01.356Z",
+        "groups": [
+          "5c023122a9ea962dca147a8e"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd51e4",
+        "lastName": "Hernández",
+        "secondLastName": "Chávez",
+        "name": "Oscar Raúl",
+        "email": "A7_oscar@hotmail.com",
+        "phoneNumber": "5547607897",
+        "registeredBy": "5c02315b2e8bb62de06273f2",
+        "name_lower": "oscar raul",
+        "lastName_lower": "hernandez",
+        "email_lower": "a7_oscar@hotmail.com",
+        "debt": true,
+        "firstLastName_lower": "oscar raul hernandez",
+        "fullName_lower": "oscar raul hernandez chavez",
+        "secondLastName_lower": "chavez",
+        "address": "ninguna",
+        "birthDate": "2019-04-13T23:55:09.778Z",
+        "postalCode": "0",
+        "hashed_password": "$2a$10$VTz1Ck79CZi/YbtZUwKE2eQNIIM0ZLDootPDqYXR5konRO3onoKYa",
+        "groupsInfo": [],
+        "lastNames_lower": "hernandez chavez",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 500,
+            "total": 2500
+          },
+          "costs": {
+            "total": 3500
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": true,
+        "registerDate": "2018-12-01T07:00:01.198Z",
+        "groups": [
+          "5c023122a9ea962dca147b06"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd4644",
+        "lastName": "Gutierrez",
+        "secondLastName": "Jimenez",
+        "name": "Carmen Montserrat",
+        "email": "cmontserrat16@gmail.com",
+        "phoneNumber": "7227109515",
+        "registeredBy": "5c02315b2e8bb62de06273de",
+        "name_lower": "carmen montserrat",
+        "lastName_lower": "gutierrez",
+        "email_lower": "cmontserrat16@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "carmen montserrat gutierrez",
+        "fullName_lower": "carmen montserrat gutierrez jimenez",
+        "secondLastName_lower": "jimenez",
+        "hashed_password": "$2a$10$8IxxNjlMiUApNkEbSPNrxuSxvhhj2yF6Y0wSyjTGVw2/JsHEnnRQq",
+        "groupsInfo": [],
+        "lastNames_lower": "gutierrez jimenez",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 750,
+            "total": 3751
+          },
+          "costs": {
+            "total": 9330
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": true,
+        "registerDate": "2018-12-01T07:00:01.394Z",
+        "groups": [
+          "5c023122a9ea962dca147a58"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd5404",
+        "lastName": "Esquivel",
+        "secondLastName": "Jimenez",
+        "name": "Frida",
+        "email": "esquivelfrida8@gmail.com",
+        "phoneNumber": "46154049",
+        "registeredBy": "5c02315b2e8bb62de06273c5",
+        "name_lower": "frida",
+        "lastName_lower": "esquivel",
+        "email_lower": "esquivelfrida8@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "frida esquivel",
+        "fullName_lower": "frida esquivel jimenez",
+        "secondLastName_lower": "jimenez",
+        "hashed_password": "$2a$10$YaX.RnUuBR67tseSQ/UvxOhiWBbg2unIGKsbWO6dENz65o5X3rTby",
+        "groupsInfo": [],
+        "lastNames_lower": "esquivel jimenez",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 200
+          },
+          "costs": {
+            "total": 1000
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:00.981Z",
+        "groups": [],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317061a2ca2decfd3910",
+        "lastName": "Medina",
+        "secondLastName": "Hernandez",
+        "name": "Gerardo Daniel",
+        "email": "laura-h-g@hotmail.com",
+        "phoneNumber": "5522961180",
+        "registeredBy": "5c02315b2e8bb62de06273b8",
+        "name_lower": "gerardo daniel",
+        "lastName_lower": "medina",
+        "email_lower": "laura-h-g@hotmail.com",
+        "debt": true,
+        "firstLastName_lower": "gerardo daniel medina",
+        "fullName_lower": "gerardo daniel medina hernandez",
+        "secondLastName_lower": "hernandez",
+        "groupsInfo": [],
+        "lastNames_lower": "medina hernandez",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 500
+          },
+          "costs": {
+            "total": 3500
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.248Z",
+        "groups": [
+          "5c023122a9ea962dca147a16"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd4a94",
+        "lastName": "garcia",
+        "secondLastName": "mateo",
+        "name": "sandra yaretsi",
+        "email": "sandragarcianm@gmail.com",
+        "phoneNumber": "5530108564",
+        "registeredBy": "5c02315b2e8bb62de06273d3",
+        "name_lower": "sandra yaretsi",
+        "lastName_lower": "garcia",
+        "email_lower": "sandragarcianm@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "sandra yaretsi garcia",
+        "fullName_lower": "sandra yaretsi garcia mateo",
+        "secondLastName_lower": "mateo",
+        "groupsInfo": [],
+        "lastNames_lower": "garcia mateo",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 2000
+          },
+          "costs": {
+            "total": 3500
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": true,
+        "registerDate": "2018-12-01T07:00:01.250Z",
+        "groups": [
+          "5c023122a9ea962dca147ac6"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd4abe",
+        "lastName": "Miranda",
+        "secondLastName": "Graniel",
+        "name": "Paola",
+        "email": "paolamiranda07@icloud.com",
+        "phoneNumber": "5541852517",
+        "registeredBy": "5c02315b2e8bb62de06273d0",
+        "name_lower": "paola",
+        "lastName_lower": "miranda",
+        "email_lower": "paolamiranda07@icloud.com",
+        "debt": true,
+        "firstLastName_lower": "paola miranda",
+        "fullName_lower": "paola miranda graniel",
+        "hashed_password": "$2a$10$yEZRhUV31wZPu8Hbm85H3uL.E5qC6Ff927E8mzchVapB3Er2yyAMq",
+        "secondLastName_lower": "graniel",
+        "groupsInfo": [],
+        "lastNames_lower": "miranda graniel",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 1001
+          },
+          "costs": {
+            "total": 3500
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.286Z",
+        "groups": [
+          "5c023122a9ea962dca147a92"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd4d1e",
+        "lastName": "Rosas",
+        "secondLastName": "Mendoza",
+        "name": "María Isabel",
+        "email": "cesardomin.2002@yahoo.com.mx",
+        "phoneNumber": "5534024514",
+        "registeredBy": "5c02315b2e8bb62de06273d0",
+        "name_lower": "maria isabel",
+        "lastName_lower": "rosas",
+        "email_lower": "cesardomin.2002@yahoo.com.mx",
+        "debt": true,
+        "firstLastName_lower": "maria isabel rosas",
+        "fullName_lower": "maria isabel rosas mendoza",
+        "secondLastName_lower": "mendoza",
+        "groupsInfo": [],
+        "lastNames_lower": "rosas mendoza",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 400,
+            "total": 1730
+          },
+          "costs": {
+            "total": 4400
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.063Z",
+        "groups": [
+          "5ff6686e70f21c5ae322478f",
+          "60ec93d8ba76305ba12051e5"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [
+          "5fb2fad8e8ad385ac6b6d184",
+          "5fb2fad8e8ad385ac6b6d19c",
+          "5fb2fad8e8ad385ac6b6d1a2",
+          "5fb2fad8e8ad385ac6b6d18c"
+        ],
+        "_id": "5c02317161a2ca2decfd3dee",
+        "lastName": "flores",
+        "secondLastName": "garcia",
+        "name": "fernando",
+        "email": "fflaquers@gmail.com",
+        "phoneNumber": "5514252867",
+        "registeredBy": "5c02315b2e8bb62de06273eb",
+        "name_lower": "fernando",
+        "lastName_lower": "flores",
+        "email_lower": "fflaquers@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "fernando flores",
+        "fullName_lower": "fernando flores garcia",
+        "secondLastName_lower": "garcia",
+        "groupsInfo": [],
+        "lastNames_lower": "flores garcia",
+        "comipemsGroups": [
+          {
+            "_id": "5fb2fad8e8ad385ac6b6d184",
+            "name": "Ciencias Experimentales - 4",
+            "phase": 4
+          },
+          {
+            "_id": "5fb2fad8e8ad385ac6b6d19c",
+            "name": "Ciencias Sociales - 3",
+            "phase": 3
+          },
+          {
+            "_id": "5fb2fad8e8ad385ac6b6d1a2",
+            "name": "Matematicas - 2",
+            "phase": 2
+          },
+          {
+            "_id": "5fb2fad8e8ad385ac6b6d18c",
+            "name": "Razonamiento - 1",
+            "phase": 1
+          }
+        ],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 750,
+            "total": 2758
+          },
+          "costs": {
+            "total": 6820
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": true,
+        "registerDate": "2018-12-01T07:00:01.269Z",
+        "groups": [
+          "5c023122a9ea962dca147a86"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd4b5c",
+        "lastName": "Mondragon",
+        "secondLastName": "Velazquez",
+        "name": "Keren Abigail",
+        "email": "keren_mon01@hotmail.com",
+        "phoneNumber": "5574835736",
+        "registeredBy": "5c02315b2e8bb62de06273b8",
+        "name_lower": "keren abigail",
+        "lastName_lower": "mondragon",
+        "email_lower": "keren_mon01@hotmail.com",
+        "debt": true,
+        "address": "ninguna",
+        "birthDate": "2019-01-13T00:00:00.000Z",
+        "fullName_lower": "keren abigail mondragon velazquez",
+        "postalCode": "0",
+        "firstLastName_lower": "keren abigail mondragon",
+        "hashed_password": "$2a$10$Kh/DUAYPsJEWNl3UcoZ/heMcWeb7M4r5ADBZrVfyQJbwtRBnpMO2u",
+        "secondLastName_lower": "velazquez",
+        "groupsInfo": [],
+        "lastNames_lower": "mondragon velazquez",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 500
+          },
+          "costs": {
+            "total": 1000
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.060Z",
+        "groups": [],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd3db0",
+        "lastName": "Urbina",
+        "secondLastName": "Celis",
+        "name": "Yoali Adalyd",
+        "email": "yoaliurbinacelis@gmail.com",
+        "phoneNumber": "5515909792",
+        "registeredBy": "5c02315b2e8bb62de06273b6",
+        "name_lower": "yoali adalyd",
+        "lastName_lower": "urbina",
+        "email_lower": "yoaliurbinacelis@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "yoali adalyd urbina",
+        "fullName_lower": "yoali adalyd urbina celis",
+        "secondLastName_lower": "celis",
+        "groupsInfo": [],
+        "lastNames_lower": "urbina celis",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 500,
+            "total": 1202
+          },
+          "costs": {
+            "total": 2600
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.086Z",
+        "groups": [],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd3fb8",
+        "lastName": "Marcelino",
+        "secondLastName": "Morales",
+        "name": "Angel Alberto",
+        "email": "marianaplata36@gmail.com",
+        "phoneNumber": "5591618887",
+        "registeredBy": "5c02315b2e8bb62de06273e3",
+        "name_lower": "angel alberto",
+        "lastName_lower": "marcelino",
+        "email_lower": "marianaplata36@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "angel alberto marcelino",
+        "fullName_lower": "angel alberto marcelino morales",
+        "secondLastName_lower": "morales",
+        "groupsInfo": [],
+        "lastNames_lower": "marcelino morales",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 750,
+            "total": 2950
+          },
+          "costs": {
+            "total": 6800
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": true,
+        "registerDate": "2018-12-01T07:00:01.345Z",
+        "groups": [
+          "5c023122a9ea962dca147a8e"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd5148",
+        "lastName": "Montes",
+        "secondLastName": "Valera",
+        "name": "Ana Cristina",
+        "email": "anacmontval@hotmail.com",
+        "phoneNumber": "2221162566",
+        "registeredBy": "5c02315b2e8bb62de06273cb",
+        "name_lower": "ana cristina",
+        "lastName_lower": "montes",
+        "email_lower": "anacmontval@hotmail.com",
+        "debt": true,
+        "firstLastName_lower": "ana cristina montes",
+        "fullName_lower": "ana cristina montes valera",
+        "secondLastName_lower": "valera",
+        "hashed_password": "$2a$10$CybE6f6ePz.6tS8sjwOhDuwRiW5AXkPEgFdn1f7MWK85C2TN6nOsa",
+        "groupsInfo": [],
+        "lastNames_lower": "montes valera",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 500
+          },
+          "costs": {
+            "total": 1000
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.119Z",
+        "groups": [],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd4208",
+        "lastName": "Robles",
+        "secondLastName": "Cano",
+        "name": "Miguel Angel",
+        "email": "micano@live.com.mx",
+        "phoneNumber": "25413376",
+        "registeredBy": "5c02315b2e8bb62de06273c7",
+        "name_lower": "miguel angel",
+        "lastName_lower": "robles",
+        "email_lower": "micano@live.com.mx",
+        "debt": true,
+        "firstLastName_lower": "miguel angel robles",
+        "fullName_lower": "miguel angel robles cano",
+        "secondLastName_lower": "cano",
+        "groupsInfo": [],
+        "lastNames_lower": "robles cano",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 500,
+            "total": 0
+          },
+          "costs": {
+            "total": 2000
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.051Z",
+        "groups": [],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd3cdc",
+        "lastName": "BORRAR",
+        "secondLastName": "BORRAR",
+        "name": "BORRAR",
+        "email": "tahur58@mnx.com",
+        "phoneNumber": "5540412431",
+        "registeredBy": "5c02315b2e8bb62de06273cd",
+        "name_lower": "borrar",
+        "lastName_lower": "borrar",
+        "email_lower": "tahur58@mnx.com",
+        "debt": true,
+        "firstLastName_lower": "borrar borrar",
+        "fullName_lower": "borrar borrar borrar",
+        "secondLastName_lower": "borrar",
+        "address": "ninguna",
+        "birthDate": "2019-04-29T00:21:58.830Z",
+        "postalCode": "0",
+        "groupsInfo": [],
+        "lastNames_lower": "borrar borrar",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 200
+          },
+          "costs": {
+            "total": 3500
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.357Z",
+        "groups": [
+          "5c023122a9ea962dca147a8e"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd51f4",
+        "lastName": "perez",
+        "secondLastName": "Marquez",
+        "name": "sergio adolfo",
+        "email": "rattlehead_1983@outlook.com",
+        "phoneNumber": "5583135192",
+        "registeredBy": "5c02315b2e8bb62de06273d3",
+        "name_lower": "sergio adolfo",
+        "lastName_lower": "perez",
+        "email_lower": "rattlehead_1983@outlook.com",
+        "debt": true,
+        "firstLastName_lower": "sergio adolfo perez",
+        "fullName_lower": "sergio adolfo perez marquez",
+        "secondLastName_lower": "marquez",
+        "groupsInfo": [],
+        "lastNames_lower": "perez marquez",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 500,
+            "total": 1000
+          },
+          "costs": {
+            "total": 3500
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.177Z",
+        "groups": [
+          "5c023122a9ea962dca147b1a"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd45da",
+        "lastName": "Escalante ",
+        "secondLastName": "Mercado",
+        "name": "Aline Daniela",
+        "email": "mercadoreynaga@gmail.com",
+        "phoneNumber": "5540381968",
+        "registeredBy": "5c02315b2e8bb62de06273ef",
+        "name_lower": "aline daniela",
+        "lastName_lower": "escalante ",
+        "email_lower": "mercadoreynaga@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "aline daniela escalante ",
+        "fullName_lower": "aline daniela escalante  mercado",
+        "secondLastName_lower": "mercado",
+        "groupsInfo": [],
+        "lastNames_lower": "escalante  mercado",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 500
+          },
+          "costs": {
+            "total": 1000
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": true,
+        "registerDate": "2018-12-01T07:00:00.990Z",
+        "groups": [],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317061a2ca2decfd39dc",
+        "lastName": "rubio",
+        "secondLastName": "ramon",
+        "name": "pavel ivan",
+        "email": "pavelivan91@gmail.com",
+        "phoneNumber": "5577107171",
+        "registeredBy": "5c02315b2e8bb62de06273d3",
+        "name_lower": "pavel ivan",
+        "lastName_lower": "rubio",
+        "email_lower": "pavelivan91@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "pavel ivan rubio",
+        "fullName_lower": "pavel ivan rubio ramon",
+        "secondLastName_lower": "ramon",
+        "groupsInfo": [],
+        "hashed_password": "$2a$10$suHrRLcBoS6ruMY6.j0ySe5NBYTDlsfiLitaojhXJQBNKGo43tX2y",
+        "lastNames_lower": "rubio ramon",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 1250,
+            "total": 2200
+          },
+          "costs": {
+            "total": 3500
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.198Z",
+        "groups": [
+          "5c023122a9ea962dca147b06"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd463c",
+        "lastName": "Pacheco ",
+        "secondLastName": "Solis",
+        "name": "Erenet Jaasiel",
+        "email": "Erenet@outlook.com",
+        "phoneNumber": "5564021927",
+        "registeredBy": "5c02315b2e8bb62de06273ef",
+        "name_lower": "erenet jaasiel",
+        "lastName_lower": "pacheco ",
+        "email_lower": "erenet@outlook.com",
+        "debt": true,
+        "firstLastName_lower": "erenet jaasiel pacheco ",
+        "fullName_lower": "erenet jaasiel pacheco  solis",
+        "secondLastName_lower": "solis",
+        "groupsInfo": [],
+        "lastNames_lower": "pacheco  solis",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 500,
+            "total": 1020
+          },
+          "costs": {
+            "total": 6000
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": true,
+        "registerDate": "2018-12-01T07:00:01.167Z",
+        "groups": [
+          "5c023122a9ea962dca147a20",
+          "5f2c60cb9589845a74423adc"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd4530",
+        "lastName": "Mireles",
+        "secondLastName": "Eguiluz",
+        "name": "Luis Gerardo",
+        "email": "mirelesg17@gmail.com",
+        "phoneNumber": "5582089022",
+        "registeredBy": "5c02315b2e8bb62de06273bc",
+        "name_lower": "luis gerardo",
+        "lastName_lower": "mireles",
+        "email_lower": "mirelesg17@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "luis gerardo mireles",
+        "fullName_lower": "luis gerardo mireles eguiluz",
+        "hashed_password": "$2a$10$3UqZPuTXaQyz.PPaO3bjZOo/4TZM9XIbFNlEQADBQtZ/bAgNj4mdq",
+        "secondLastName_lower": "eguiluz",
+        "groupsInfo": [],
+        "lastNames_lower": "mireles eguiluz",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 500
+          },
+          "costs": {
+            "total": 1000
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.077Z",
+        "groups": [],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd3ee8",
+        "lastName": "Cortes",
+        "secondLastName": "Carera",
+        "name": "Daniela",
+        "email": "dcortescarera@gmail.com",
+        "phoneNumber": "5545379010",
+        "registeredBy": "5c02315b2e8bb62de06273d4",
+        "name_lower": "daniela",
+        "lastName_lower": "cortes",
+        "email_lower": "dcortescarera@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "daniela cortes",
+        "fullName_lower": "daniela cortes carera",
+        "secondLastName_lower": "carera",
+        "groupsInfo": [],
+        "lastNames_lower": "cortes carera",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 500
+          },
+          "costs": {
+            "total": 1000
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": true,
+        "registerDate": "2018-12-01T07:00:01.079Z",
+        "groups": [],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd3f06",
+        "lastName": "Ceas",
+        "secondLastName": "Ramirez",
+        "name": "Jocabed Tamara",
+        "email": "adrianarv_ie@hotmail.com",
+        "phoneNumber": "5527083194",
+        "registeredBy": "5c02315b2e8bb62de06273de",
+        "name_lower": "jocabed tamara",
+        "lastName_lower": "ceas",
+        "email_lower": "adrianarv_ie@hotmail.com",
+        "debt": true,
+        "firstLastName_lower": "jocabed tamara ceas",
+        "fullName_lower": "jocabed tamara ceas ramirez",
+        "secondLastName_lower": "ramirez",
+        "groupsInfo": [],
+        "hashed_password": "$2a$10$6rIcaCXs4lT17GDdnHR89.1QpL3LTKFV9OuzQvGEvyo6Q6KXPLEve",
+        "lastNames_lower": "ceas ramirez",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 500
+          },
+          "costs": {
+            "total": 1000
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:00.995Z",
+        "groups": [],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317061a2ca2decfd3a42",
+        "lastName": "castillo",
+        "secondLastName": "rueda",
+        "name": "lissette alejandra",
+        "email": "lucyrq@yahoo.com",
+        "phoneNumber": "5539332902",
+        "registeredBy": "5c02315b2e8bb62de06273d2",
+        "name_lower": "lissette alejandra",
+        "lastName_lower": "castillo",
+        "email_lower": "lucyrq@yahoo.com",
+        "debt": true,
+        "firstLastName_lower": "lissette alejandra castillo",
+        "fullName_lower": "lissette alejandra castillo rueda",
+        "secondLastName_lower": "rueda",
+        "groupsInfo": [],
+        "lastNames_lower": "castillo rueda",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 500
+          },
+          "costs": {
+            "total": 1000
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.112Z",
+        "groups": [],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd416a",
+        "lastName": "hernandez",
+        "secondLastName": "puente",
+        "name": "jose miguel",
+        "email": "laupuenter@yahoo.com",
+        "phoneNumber": "5549143604",
+        "registeredBy": "5c02315b2e8bb62de06273d3",
+        "name_lower": "jose miguel",
+        "lastName_lower": "hernandez",
+        "email_lower": "laupuenter@yahoo.com",
+        "debt": true,
+        "firstLastName_lower": "jose miguel hernandez",
+        "fullName_lower": "jose miguel hernandez puente",
+        "secondLastName_lower": "puente",
+        "groupsInfo": [],
+        "lastNames_lower": "hernandez puente",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 500,
+            "total": 1000
+          },
+          "costs": {
+            "total": 3500
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.219Z",
+        "groups": [
+          "5c023122a9ea962dca147ada"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd4778",
+        "lastName": "Mariano",
+        "secondLastName": "Aguilar",
+        "name": "Carlos David",
+        "email": "marianocarlos@hotmail.com",
+        "phoneNumber": "5525277718",
+        "registeredBy": "5c02315b2e8bb62de06273ca",
+        "name_lower": "carlos david",
+        "lastName_lower": "mariano",
+        "email_lower": "marianocarlos@hotmail.com",
+        "debt": true,
+        "firstLastName_lower": "carlos david mariano",
+        "fullName_lower": "carlos david mariano aguilar",
+        "secondLastName_lower": "aguilar",
+        "groupsInfo": [],
+        "lastNames_lower": "mariano aguilar",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 500,
+            "total": 501
+          },
+          "costs": {
+            "total": 3900
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": true,
+        "registerDate": "2018-12-01T07:00:01.332Z",
+        "groups": [
+          "5c023122a9ea962dca147b1c"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd5090",
+        "lastName": "Vidales ",
+        "secondLastName": "Perez",
+        "name": "Diana Itzel ",
+        "email": "itzelvidaes@gmail.com",
+        "phoneNumber": "5580048364",
+        "registeredBy": "5c02315b2e8bb62de06273bc",
+        "name_lower": "diana itzel ",
+        "lastName_lower": "vidales ",
+        "email_lower": "itzelvidaes@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "diana itzel  vidales ",
+        "fullName_lower": "diana itzel  vidales  perez",
+        "secondLastName_lower": "perez",
+        "hashed_password": "$2a$10$8RKnezao0lLi7hfOITOoTeC3yvHkxAtOfNJuAfIKbwmar1G2aBcjC",
+        "groupsInfo": [],
+        "lastNames_lower": "vidales  perez",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 500
+          },
+          "costs": {
+            "total": 3500
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.280Z",
+        "groups": [
+          "5c023122a9ea962dca147b10"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd4c80",
+        "lastName": "flores",
+        "secondLastName": "arteaga",
+        "name": "braulio",
+        "email": "braulioarteaga27@gmail.com",
+        "phoneNumber": "5520774668",
+        "registeredBy": "5c02315b2e8bb62de06273eb",
+        "name_lower": "braulio",
+        "lastName_lower": "flores",
+        "email_lower": "braulioarteaga27@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "braulio flores",
+        "fullName_lower": "braulio flores arteaga",
+        "secondLastName_lower": "arteaga",
+        "groupsInfo": [],
+        "lastNames_lower": "flores arteaga",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 500,
+            "total": 7001
+          },
+          "costs": {
+            "total": 509820
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": true,
+        "registerDate": "2018-12-01T07:00:01.413Z",
+        "groups": [
+          "5f0b40ba53eef65a4c75f707"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd5594",
+        "lastName": "Morales",
+        "secondLastName": "Ruiz",
+        "name": "Andrea ",
+        "email": "am1287903@gmail.com",
+        "phoneNumber": "5545754588",
+        "registeredBy": "5c02315b2e8bb62de06273b8",
+        "name_lower": "andrea ",
+        "lastName_lower": "morales",
+        "email_lower": "am1287903@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "andrea  morales",
+        "fullName_lower": "andrea  morales ruiz",
+        "secondLastName_lower": "ruiz",
+        "hashed_password": "$2a$10$8HnPdguylfLOiYQDALbwJuXuiSWASK7Dxuq5VCsoPDGFgVEpcAPg.",
+        "groupsInfo": [],
+        "lastNames_lower": "morales ruiz",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 500,
+            "total": 500
+          },
+          "costs": {
+            "total": 3500
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.205Z",
+        "groups": [
+          "5c023122a9ea962dca147aa4"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd46f0",
+        "lastName": "Benitez ",
+        "secondLastName": "Ahumada ",
+        "name": "Tomas Diego ",
+        "email": "tomas547@gmail.com",
+        "phoneNumber": "53191491",
+        "registeredBy": "5c02315b2e8bb62de06273bc",
+        "name_lower": "tomas diego ",
+        "lastName_lower": "benitez ",
+        "email_lower": "tomas547@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "tomas diego  benitez ",
+        "fullName_lower": "tomas diego  benitez  ahumada ",
+        "secondLastName_lower": "ahumada ",
+        "groupsInfo": [],
+        "lastNames_lower": "benitez  ahumada ",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 1000,
+            "total": 1701
+          },
+          "costs": {
+            "total": 9000
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.193Z",
+        "groups": [
+          "5c023122a9ea962dca147b1a",
+          "61716dc4f9824c5c46f5cdca"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd45f8",
+        "lastName": "Gonzalez",
+        "secondLastName": "Barranco",
+        "name": "Karla Greta",
+        "email": "karlabarrancokazama@gmail.com",
+        "phoneNumber": "5523128684",
+        "registeredBy": "5c02315b2e8bb62de06273c8",
+        "name_lower": "karla greta",
+        "lastName_lower": "gonzalez",
+        "email_lower": "karlabarrancokazama@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "karla greta gonzalez",
+        "fullName_lower": "karla greta gonzalez barranco",
+        "secondLastName_lower": "barranco",
+        "groupsInfo": [],
+        "lastNames_lower": "gonzalez barranco",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 500,
+            "total": 500
+          },
+          "costs": {
+            "total": 3500
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.367Z",
+        "groups": [
+          "5c023122a9ea962dca147af8"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd52f2",
+        "lastName": "Rivera",
+        "secondLastName": "Ramos",
+        "name": "Jennifer",
+        "email": "jenyta.tellez2708@gmail.com",
+        "phoneNumber": "5520106966",
+        "registeredBy": "5c02315b2e8bb62de06273d8",
+        "name_lower": "jennifer",
+        "lastName_lower": "rivera",
+        "email_lower": "jenyta.tellez2708@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "jennifer rivera",
+        "fullName_lower": "jennifer rivera ramos",
+        "secondLastName_lower": "ramos",
+        "groupsInfo": [],
+        "lastNames_lower": "rivera ramos",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 750,
+            "total": 3251
+          },
+          "costs": {
+            "total": 6600
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": true,
+        "registerDate": "2018-12-01T07:00:01.035Z",
+        "groups": [
+          "5dc665d2ddb6e2178da838cb"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [
+          "5dc665d2ddb6e2178da838c7",
+          "5dc665d2ddb6e2178da838b9",
+          "5dc665d2ddb6e2178da838af",
+          "5dc665d2ddb6e2178da838bf"
+        ],
+        "_id": "5c02317161a2ca2decfd3c2e",
+        "lastName": "Melgarejo",
+        "secondLastName": "Vázquez",
+        "name": "Alba Mariana",
+        "email": "alju9721@yahoo.com.mx",
+        "phoneNumber": "5578437138",
+        "registeredBy": "5c02315b2e8bb62de06273b8",
+        "name_lower": "alba mariana",
+        "lastName_lower": "melgarejo",
+        "email_lower": "alju9721@yahoo.com.mx",
+        "debt": true,
+        "firstLastName_lower": "alba mariana melgarejo",
+        "fullName_lower": "alba mariana melgarejo vazquez",
+        "secondLastName_lower": "vazquez",
+        "groupsInfo": [],
+        "hashed_password": "$2a$10$1fKsmh.E2ienwSLqf5LUcOYmVCO.6O7JlLV9OYO.4VMtmZfMzv7hK",
+        "lastNames_lower": "melgarejo vazquez",
+        "comipemsGroups": [
+          {
+            "_id": "5dc665d2ddb6e2178da838c7",
+            "name": "Ciencias Experimentales - 2",
+            "phase": 2
+          },
+          {
+            "_id": "5dc665d2ddb6e2178da838b9",
+            "name": "Ciencias Sociales - 4",
+            "phase": 4
+          },
+          {
+            "_id": "5dc665d2ddb6e2178da838af",
+            "name": "Matematicas - 3",
+            "phase": 3
+          },
+          {
+            "_id": "5dc665d2ddb6e2178da838bf",
+            "name": "Razonamiento - 1",
+            "phase": 1
+          }
+        ],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 4000
+          },
+          "costs": {
+            "total": 8830
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": true,
+        "registerDate": "2018-12-01T07:00:01.163Z",
+        "groups": [
+          "5c023122a9ea962dca147b16"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd44e4",
+        "lastName": "Ocampo ",
+        "secondLastName": "Robles ",
+        "name": "Esau",
+        "email": "jovenmondr@gmail.com",
+        "phoneNumber": "7131074716",
+        "registeredBy": "5c02315b2e8bb62de06273f1",
+        "name_lower": "esau",
+        "lastName_lower": "ocampo ",
+        "email_lower": "jovenmondr@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "esau ocampo ",
+        "fullName_lower": "esau ocampo  robles ",
+        "secondLastName_lower": "robles ",
+        "hashed_password": "$2a$10$4rw1JjRhW3/QXDTFfbyBMuLDfcfh.IkFU30QvOdvutHbXvVnqi/f2",
+        "groupsInfo": [],
+        "lastNames_lower": "ocampo  robles ",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 750,
+            "total": 1000
+          },
+          "costs": {
+            "total": 3500
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": true,
+        "registerDate": "2018-12-01T07:00:01.246Z",
+        "groups": [],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd4a5c",
+        "lastName": "Eliminar",
+        "secondLastName": "Eliminar",
+        "name": "Valentina",
+        "email": "susan_leti@hotmail.com",
+        "phoneNumber": "57762700",
+        "registeredBy": "5c02315b2e8bb62de06273e3",
+        "name_lower": "valentina",
+        "lastName_lower": "eliminar",
+        "email_lower": "susan_leti@hotmail.com",
+        "debt": true,
+        "address": "ninguna",
+        "birthDate": "2019-03-17T00:00:00.000Z",
+        "fullName_lower": "valentina eliminar eliminar",
+        "postalCode": "0",
+        "secondPhoneNumber": "----",
+        "firstLastName_lower": "valentina eliminar",
+        "secondLastName_lower": "eliminar",
+        "groupsInfo": [],
+        "hashed_password": "$2a$10$5alNfikXvAw4k3c1p09lx.KQD6xnL0lNqDL6lT4Rt/PKB/.uZBGHq",
+        "lastNames_lower": "eliminar eliminar",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 500
+          },
+          "costs": {
+            "total": 1000
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.088Z",
+        "groups": [],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd3fe8",
+        "lastName": "garcia",
+        "secondLastName": "Hernandez",
+        "name": "sofia",
+        "email": "soofgarcia292004@outlook.com",
+        "phoneNumber": "5511540128",
+        "registeredBy": "5c02315b2e8bb62de06273eb",
+        "name_lower": "sofia",
+        "lastName_lower": "garcia",
+        "email_lower": "soofgarcia292004@outlook.com",
+        "debt": true,
+        "firstLastName_lower": "sofia garcia",
+        "fullName_lower": "sofia garcia hernandez",
+        "secondLastName_lower": "hernandez",
+        "groupsInfo": [],
+        "lastNames_lower": "garcia hernandez",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 500,
+            "total": 2000
+          },
+          "costs": {
+            "total": 5000
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": true,
+        "registerDate": "2018-12-01T07:00:01.244Z",
+        "groups": [
+          "5c023122a9ea962dca147a28",
+          "5f64173a4982895a7a670e78"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd4a16",
+        "lastName": "Vasquez",
+        "secondLastName": "Salazar",
+        "name": "Jessica",
+        "email": "jessicavasquezsalazar.3rod@gmail.com",
+        "phoneNumber": "5515717570",
+        "registeredBy": "5c02315b2e8bb62de06273bc",
+        "name_lower": "jessica",
+        "lastName_lower": "vasquez",
+        "email_lower": "jessicavasquezsalazar.3rod@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "jessica vasquez",
+        "fullName_lower": "jessica vasquez salazar",
+        "secondLastName_lower": "salazar",
+        "groupsInfo": [],
+        "lastNames_lower": "vasquez salazar",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "hashed_password": "$2a$10$F6/uVEmggkT6m3eVZhHAwOR8Dec8CVzjUyhdmg0b2CRbbmix6UmUa",
+        "paymentsArranges": [],
+        "address": "Calle teoloyucan Mz5 Lt30 ",
+        "postalCode": "9609"
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 350
+          },
+          "costs": {
+            "total": 1000
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": true,
+        "registerDate": "2018-12-01T07:00:00.957Z",
+        "groups": [],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317061a2ca2decfd37ca",
+        "lastName": "Velazquez",
+        "secondLastName": "Ortega",
+        "name": "Jorge Alberto",
+        "email": "santaoc0229@gmail.com",
+        "phoneNumber": "5522656541",
+        "registeredBy": "5c02315b2e8bb62de06273e3",
+        "name_lower": "jorge alberto",
+        "lastName_lower": "velazquez",
+        "email_lower": "santaoc0229@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "jorge alberto velazquez",
+        "fullName_lower": "jorge alberto velazquez ortega",
+        "secondLastName_lower": "ortega",
+        "groupsInfo": [],
+        "hashed_password": "$2a$10$C4PBUXG6nQ30.Eb1jgr/s.INYhNpidWzDSSe0jWRa7j/Tw1Mnm0Dy",
+        "lastNames_lower": "velazquez ortega",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 1004
+          },
+          "costs": {
+            "total": 6600
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-11-13T10:00:00.000Z",
+        "groups": [
+          "5dc65d69ddb6e2178da8350b"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317061a2ca2decfd352c",
+        "lastName": "Rivera",
+        "secondLastName": "Méndez",
+        "name": "Estrella",
+        "email": "delnobet@hotmail.com",
+        "phoneNumber": "5539921262",
+        "registeredBy": "5c02315b2e8bb62de06273e9",
+        "name_lower": "estrella",
+        "lastName_lower": "rivera",
+        "email_lower": "delnobet@hotmail.com",
+        "debt": true,
+        "firstLastName_lower": "estrella rivera",
+        "fullName_lower": "estrella rivera mendez",
+        "secondLastName_lower": "mendez",
+        "groupsInfo": [],
+        "lastNames_lower": "rivera mendez",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 1000
+          },
+          "costs": {
+            "total": 3500
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": true,
+        "registerDate": "2018-12-01T07:00:01.276Z",
+        "groups": [
+          "5c023122a9ea962dca14799e"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd4c18",
+        "lastName": "Torres",
+        "secondLastName": "Cristiany",
+        "name": "Imanol",
+        "email": "imanoltorres33@gmail.com",
+        "phoneNumber": "5533204620",
+        "registeredBy": "5c02315b2e8bb62de06273e9",
+        "name_lower": "imanol",
+        "lastName_lower": "torres",
+        "email_lower": "imanoltorres33@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "imanol torres",
+        "fullName_lower": "imanol torres cristiany",
+        "secondLastName_lower": "cristiany",
+        "hashed_password": "$2a$10$rAGLyh6GS69YmMT8ptHoGu3VQ03GQJuG3hNFsLcMEl/wsaXQVH03m",
+        "groupsInfo": [],
+        "lastNames_lower": "torres cristiany",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 500
+          },
+          "costs": {
+            "total": 3500
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": true,
+        "registerDate": "2018-12-01T07:00:01.288Z",
+        "groups": [
+          "5c023122a9ea962dca147a92"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd4d54",
+        "lastName": "Amador",
+        "secondLastName": "Jara",
+        "name": "Daniela Ivonne",
+        "email": "daniela.ballet66@gmail.com",
+        "phoneNumber": "52544673",
+        "registeredBy": "5c02315b2e8bb62de06273e6",
+        "name_lower": "daniela ivonne",
+        "lastName_lower": "amador",
+        "email_lower": "daniela.ballet66@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "daniela ivonne amador",
+        "fullName_lower": "daniela ivonne amador jara",
+        "secondLastName_lower": "jara",
+        "hashed_password": "$2a$10$iwwMiIIGNUnJnFoFO3cdEubq7CKQClOhCqX/v0bqG2OFV49sXmnPq",
+        "groupsInfo": [],
+        "lastNames_lower": "amador jara",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 500
+          },
+          "costs": {
+            "total": 1000
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.073Z",
+        "groups": [],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd3e8e",
+        "lastName": "Vergara",
+        "secondLastName": "Morones",
+        "name": "Diego",
+        "email": "diego.m777@hotmail.com",
+        "phoneNumber": "5523310234",
+        "registeredBy": "5c02315b2e8bb62de06273e3",
+        "name_lower": "diego",
+        "lastName_lower": "vergara",
+        "email_lower": "diego.m777@hotmail.com",
+        "debt": true,
+        "firstLastName_lower": "diego vergara",
+        "fullName_lower": "diego vergara morones",
+        "secondLastName_lower": "morones",
+        "groupsInfo": [],
+        "lastNames_lower": "vergara morones",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 500,
+            "total": 1003
+          },
+          "costs": {
+            "total": 2600
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.086Z",
+        "groups": [],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd3fb6",
+        "lastName": "RODRIGUEZ",
+        "secondLastName": " FONSECA",
+        "name": "ULISES ",
+        "email": "fonseca-denisse@hotmail.com",
+        "phoneNumber": "5575013044",
+        "registeredBy": "5c02315b2e8bb62de06273fc",
+        "name_lower": "ulises ",
+        "lastName_lower": "rodriguez",
+        "email_lower": "fonseca-denisse@hotmail.com",
+        "debt": true,
+        "firstLastName_lower": "ulises  rodriguez",
+        "fullName_lower": "ulises  rodriguez  fonseca",
+        "secondLastName_lower": " fonseca",
+        "groupsInfo": [],
+        "lastNames_lower": "rodriguez  fonseca",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 500
+          },
+          "costs": {
+            "total": 3500
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.442Z",
+        "groups": [
+          "5c023122a9ea962dca147ab0"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd57ee",
+        "lastName": "fabian",
+        "secondLastName": "ortiz",
+        "name": "cesar",
+        "email": "cesarortiz5g@gmail.com",
+        "phoneNumber": "5523107730",
+        "registeredBy": "5c02315b2e8bb62de06273eb",
+        "name_lower": "cesar",
+        "lastName_lower": "fabian",
+        "email_lower": "cesarortiz5g@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "cesar fabian",
+        "fullName_lower": "cesar fabian ortiz",
+        "secondLastName_lower": "ortiz",
+        "groupsInfo": [],
+        "lastNames_lower": "fabian ortiz",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 500
+          },
+          "costs": {
+            "total": 1000
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.112Z",
+        "groups": [],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd416c",
+        "lastName": "Lopez",
+        "secondLastName": "Hernandez",
+        "name": "Matias ",
+        "email": "mary.tapiaz25.hdz@gmail.com",
+        "phoneNumber": "5578896854",
+        "registeredBy": "5c02315b2e8bb62de06273cc",
+        "name_lower": "matias ",
+        "lastName_lower": "lopez",
+        "email_lower": "mary.tapiaz25.hdz@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "matias  lopez",
+        "fullName_lower": "matias  lopez hernandez",
+        "secondLastName_lower": "hernandez",
+        "groupsInfo": [],
+        "lastNames_lower": "lopez hernandez",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 1000,
+            "total": 8500
+          },
+          "costs": {
+            "total": 507330
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": true,
+        "registerDate": "2018-12-01T07:00:01.206Z",
+        "groups": [
+          "5f0b3e8c2a55c45a6440005f"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd4700",
+        "lastName": "Dorantes",
+        "secondLastName": "Duran",
+        "name": "Denisse",
+        "email": "breakingdenisse@gmail.com",
+        "phoneNumber": "5568567425",
+        "registeredBy": "5c02315b2e8bb62de06273c5",
+        "name_lower": "denisse",
+        "lastName_lower": "dorantes",
+        "email_lower": "breakingdenisse@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "denisse dorantes",
+        "fullName_lower": "denisse dorantes duran",
+        "hashed_password": "$2a$10$ieCkhXvZvA9UYZ9jJWCzcO/sR0gCp.UlVLnzepBsXXto5kwD8eKhK",
+        "secondLastName_lower": "duran",
+        "groupsInfo": [],
+        "lastNames_lower": "dorantes duran",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 500,
+            "total": 1000
+          },
+          "costs": {
+            "total": 3500
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.205Z",
+        "groups": [
+          "5c023122a9ea962dca147aa4"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd46fc",
+        "lastName": "Lopez",
+        "secondLastName": "Ortega",
+        "name": "Liliana",
+        "email": "lili2205lopez@gmail.com",
+        "phoneNumber": "5533119722",
+        "registeredBy": "5c02315b2e8bb62de06273e3",
+        "name_lower": "liliana",
+        "lastName_lower": "lopez",
+        "email_lower": "lili2205lopez@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "liliana lopez",
+        "fullName_lower": "liliana lopez ortega",
+        "secondLastName_lower": "ortega",
+        "groupsInfo": [],
+        "lastNames_lower": "lopez ortega",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 500
+          },
+          "costs": {
+            "total": 1000
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.019Z",
+        "groups": [],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd3b06",
+        "lastName": "espinosa",
+        "secondLastName": "trujillo",
+        "name": "miriam ",
+        "email": "espinosatrumiri@gmail.com",
+        "phoneNumber": "5554615729",
+        "registeredBy": "5c02315b2e8bb62de06273cc",
+        "name_lower": "miriam ",
+        "lastName_lower": "espinosa",
+        "email_lower": "espinosatrumiri@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "miriam  espinosa",
+        "fullName_lower": "miriam  espinosa trujillo",
+        "secondLastName_lower": "trujillo",
+        "groupsInfo": [],
+        "lastNames_lower": "espinosa trujillo",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 500,
+            "total": 2151
+          },
+          "costs": {
+            "total": 10700
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.286Z",
+        "groups": [
+          "5c023122a9ea962dca147a92",
+          "60ec68d53ad8715b8fe40cb2",
+          "60ca276ebd74b95ba050ad3d"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [
+          "5f9cd42b1087655aa715cff0",
+          "5f9cd42b1087655aa715cff2",
+          "5f9cd42b1087655aa715cfe4",
+          "5f9cd42b1087655aa715cfe2"
+        ],
+        "_id": "5c02317161a2ca2decfd4d22",
+        "lastName": "Medina",
+        "secondLastName": "Duarte",
+        "name": "Jesus",
+        "email": "julieta710630@hotmail.com",
+        "phoneNumber": "5574264603",
+        "registeredBy": "5c02315b2e8bb62de06273b1",
+        "name_lower": "jesus",
+        "lastName_lower": "medina",
+        "email_lower": "julieta710630@hotmail.com",
+        "debt": true,
+        "firstLastName_lower": "jesus medina",
+        "fullName_lower": "jesus medina duarte",
+        "secondLastName_lower": "duarte",
+        "groupsInfo": [],
+        "lastNames_lower": "medina duarte",
+        "comipemsGroups": [
+          {
+            "_id": "5f9cd42b1087655aa715cfe8",
+            "name": "Ciencias Experimentales - 1",
+            "phase": 1
+          },
+          {
+            "_id": "5f9cd42b1087655aa715cfec",
+            "name": "Ciencias Sociales - 2",
+            "phase": 2
+          },
+          {
+            "_id": "5f9cd42b1087655aa715cfe2",
+            "name": "Matematicas - 4",
+            "phase": 4
+          },
+          {
+            "_id": "5f9cd42b1087655aa715cff4",
+            "name": "Razonamiento - 3",
+            "phase": 3
+          }
+        ],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 0,
+            "total": 1000
+          },
+          "costs": {
+            "total": 3500
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": false,
+        "registerDate": "2018-12-01T07:00:01.286Z",
+        "groups": [
+          "5c023122a9ea962dca147a92"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd4d18",
+        "lastName": "Rodríguez",
+        "secondLastName": "Rodríguez",
+        "name": "Adriana",
+        "email": "adri62407@gmail.com",
+        "phoneNumber": "5584249483",
+        "registeredBy": "5c02315b2e8bb62de06273b1",
+        "name_lower": "adriana",
+        "lastName_lower": "rodriguez",
+        "email_lower": "adri62407@gmail.com",
+        "debt": true,
+        "firstLastName_lower": "adriana rodriguez",
+        "fullName_lower": "adriana rodriguez rodriguez",
+        "secondLastName_lower": "rodriguez",
+        "groupsInfo": [],
+        "lastNames_lower": "rodriguez rodriguez",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      },
+      {
+        "balance": {
+          "payments": {
+            "discounts": 500,
+            "total": 3501
+          },
+          "costs": {
+            "total": 8000
+          }
+        },
+        "deleted": false,
+        "materialFolios": [],
+        "hasTempPass": true,
+        "registerDate": "2018-12-01T07:00:01.249Z",
+        "groups": [
+          "5c023122a9ea962dca147a28",
+          "5f90585e875b3e5a8d3d6492"
+        ],
+        "freeLessonGroups": [],
+        "courses": [],
+        "comipemsOrder": [],
+        "_id": "5c02317161a2ca2decfd4aac",
+        "lastName": "Mendoza",
+        "secondLastName": "Leon",
+        "name": "Mayte",
+        "email": "jeam12mel@gmail.com",
+        "phoneNumber": "5518041649",
+        "registeredBy": "5c02315b2e8bb62de06273e9",
+        "name_lower": "mayte",
+        "lastName_lower": "mendoza",
+        "email_lower": "jeam12mel@gmail.com",
+        "address": "ninguna",
+        "birthDate": "2018-12-08T00:00:00.000Z",
+        "fullName_lower": "mayte mendoza leon",
+        "postalCode": "0",
+        "debt": true,
+        "secondPhoneNumber": "----",
+        "firstLastName_lower": "mayte mendoza",
+        "hashed_password": "$2a$10$HRhADUS6p3k/rPksKW.HhuzmvVV4LU86wgds2nyHK3tv39aVHDCBO",
+        "secondLastName_lower": "leon",
+        "groupsInfo": [],
+        "lastNames_lower": "mendoza leon",
+        "comipemsGroups": [],
+        "videosWatched": [],
+        "paymentsArranges": []
+      }
+    ]
+  }
