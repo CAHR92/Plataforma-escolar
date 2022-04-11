@@ -3,12 +3,15 @@ import {  Table } from 'antd';
 import { Modal} from 'antd';
 import 'antd/dist/antd.css';
 import {AppModal} from '../helpers/AppModal'
-//import { useDatos } from '../hooks/useDatos';
+
+
 
 
 
 
 export const PintarTabla = ({data}) => {
+  
+
 
 
 

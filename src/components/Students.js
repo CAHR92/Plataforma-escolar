@@ -1,7 +1,7 @@
 import React from 'react'
 
 import { LocalStorage } from '../helpers/LocalStorage'
-import { PintarTabla } from './PintarTabla'
+
 import { SearchBar } from './SearchBar'
 
 
