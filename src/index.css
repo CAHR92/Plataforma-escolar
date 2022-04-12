@@ -36,6 +36,12 @@
     grid-template-columns: repeat(2,1fr);
     
 }
+.modal-grid input {  
+    font-size: small;
+    text-align: center;
+    width: 100%;
+}
+
 .modal h3 {
     text-transform: uppercase;
 }
@@ -44,19 +50,4 @@
     text-align: center;
     text-transform: none;
 }
-.navi{
-    margin: 0 auto;
-    margin-bottom: 20px;
-    margin-right: 10px;
-}
-.btn-nav {
-    
-    display: grid;
-    grid-template-columns: repeat(2,1fr);
-    gap: 10px;
-    justify-content: right;
-    padding: 10px ;
-    background-color: white
-    ;
-   
-}
+

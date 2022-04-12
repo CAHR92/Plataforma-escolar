@@ -1,11 +1,11 @@
 
-import { useDatos } from "../hooks/useDatos"
 
 
-export const Filtrar = (name) => {
+
+export const Filtrar = (name,data) => {
   
-  const usuarios = useDatos();
-  const nombre=usuarios.filter(n=> n.firstName===name);
+  
+  const nombre=data.filter(n=> n.nombre===name);
   
   
 

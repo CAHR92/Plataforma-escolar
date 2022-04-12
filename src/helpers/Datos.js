@@ -1,13 +1,14 @@
 
 
 export const Datos = (students) => {
+    //Guarda los datos en el local storage
     
     let usuarios=[];
     usuarios= students.map((datos,index)=>{
         const{name,lastName,secondLastName,email,phoneNumber,debt,balance}=datos;
         const {total}=balance.payments
         const usuario={
-            id:index,
+            key:index+1,
             nombre: name,
             apellidoP:lastName,
             apellidoM:secondLastName,

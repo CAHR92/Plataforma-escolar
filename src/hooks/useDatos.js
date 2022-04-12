@@ -1,21 +1,22 @@
 
 
 export const useDatos = () => {
-
+    //Sacar datos del LocalStorage
     const {usuarios}=JSON.parse(localStorage.getItem('datos'));
     let data=usuarios.map(dat => {
-    const {id,nombre,apellidoM,apellidoP,email,telefono,total}=dat;
-    const key=id+1;
+    const {key,nombre,apellidoM,apellidoP,email,telefono,total,deuda}=dat;
+    
 
     const data = 
           { 
             key: key,
-            firstName:nombre,
-            apellidoPaterno:apellidoP,
-            apellidoMaterno:apellidoM,
+            nombre:nombre,
+            apellidoP:apellidoP,
+            apellidoM:apellidoM,
             email:email,
             telefono:telefono,
-            debt:total
+            deuda:deuda,
+            total:total
 
             }
       

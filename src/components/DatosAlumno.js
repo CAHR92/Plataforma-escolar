@@ -1,24 +1,106 @@
-import { Button } from 'antd'
-import React from 'react'
 
-export const DatosAlumno = ({data, hanldeEdit}) => {
+import React, { useEffect} from 'react'
+
+
+
+export const DatosAlumno = ({data,setModal}) => {
+
+  
+  
+  useEffect(() => {
+    setModal(data)
+  }, [data, setModal])
+  
+
+  const handleChange=(e)=>{
+    setModal({
+      ...data,
+      [e.target.name]:e.target.value
+    })
+   
+    
+  }
 
   return (
     <>
-              <nav className='navi'>
-                <div className='btn-nav'>
-                  <Button className='ant-btn-primary ' onClick={hanldeEdit}>Editar</Button>
-                  <Button className='ant-btn-primary '>Borrar</Button>
-                </div>
-              </nav>
-
               <h3 className='modal-grid'>ID: <span>{data.key}</span> </h3>
-              <h3 className='modal-grid'>Nombre: <span>{data.firstName}</span> </h3>
-              <h3 className='modal-grid'>Apellido Paterno: <span>{data.apellidoPaterno}</span> </h3>
-              <h3 className='modal-grid'>Apellido Materno:<span>{data.apellidoMaterno}</span> </h3>
-              <h3 className='modal-grid'>Email:<span>{data.email}</span> </h3>
-              <h3 className='modal-grid'>Telefono: <span>{data.telefono}</span> </h3>
-              <h3 className='modal-grid'>Deuda: <span>{data.debt}</span></h3>
-          </>
+              <h3 className='modal-grid'>Nombre: 
+                    <form>
+                        <input 
+                        type='text'
+                        name='nombre'
+                        value={data.nombre}
+                        autoComplete='off'
+                        onChange={handleChange}   
+                        />
+                    </form>
+              </h3>
+              <h3 className='modal-grid'>Apellido Paterno: 
+                    <form>
+                        <input 
+                        type='text'
+                        name='apellidoP'
+                        value={data.apellidoP}
+                        autoComplete='off'
+                        onChange={handleChange}
+                        />
+                    </form>
+              </h3>
+              <h3 className='modal-grid'>Apellido Materno:
+                    <form>
+                        <input 
+                        type='text'
+                        name='apellidoM'
+                        value={data.apellidoM}
+                        autoComplete='off'
+                        onChange={handleChange} 
+                        />
+                    </form>
+              </h3>
+              <h3 className='modal-grid'>Email:
+                    <form>
+                        <input 
+                        type='text'
+                        name='email'
+                        value={data.email}
+                        autoComplete='off'
+                        onChange={handleChange}
+                        />
+                    </form>
+              </h3>
+              <h3 className='modal-grid'>Telefono:
+                <form>
+                        <input 
+                        type='text'
+                        name='telefono'
+                        value={data.telefono}
+                        autoComplete='off'
+                        onChange={handleChange}
+                        />
+                    </form>
+              </h3>
+              <h3 className='modal-grid'>Deuda: 
+                    <form>
+                        <input 
+                        type='text'
+                        name='deuda'
+                        value={data.total}
+                        autoComplete='off'
+                        onChange={handleChange}          
+                        />
+                    </form>
+              </h3>
+              <h3 className='modal-grid'>Debe: 
+                    <form>
+                        <input 
+                        type='text'
+                        name='debe'
+                        value={data.deuda}
+                        autoComplete='off'
+                        onChange={handleChange}          
+                        />
+                    </form>
+              </h3>
+    </>
   )
 }

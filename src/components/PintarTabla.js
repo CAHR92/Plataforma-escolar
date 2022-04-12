@@ -2,21 +2,17 @@ import React, { useState } from 'react'
 import {  Table } from 'antd';
 import { Modal} from 'antd';
 import 'antd/dist/antd.css';
-import {AppModal} from '../helpers/AppModal'
+import { ActualizarLocalStorage } from '../helpers/ActualizarLocalStorage';
+import { DatosAlumno } from './DatosAlumno';
 
 
 
 
 
 
-export const PintarTabla = ({data}) => {
-  
+export const PintarTabla = ({data, setFiltro, setDatacopy}) => {
 
 
-
-
-//Tipo de contenido
-const [contenido, setContenido] = useState(1)
   //LLama el modal
 
   const [isModalVisible, setIsModalVisible] = useState(false);
@@ -26,16 +22,18 @@ const [contenido, setContenido] = useState(1)
     setIsModalVisible(true);
   };
 
-  const handleOk = () => {
+  const handleEdit = () => {
+    const n=1;
+    setDatacopy(ActualizarLocalStorage({modal, n,data}))
     setIsModalVisible(false);
-    setContenido(1)
-    console.log(contenido)
+    
   };
 
-  const handleCancel = () => {
+  const handleBorrar = () => {
+    const n=2;
+    setDatacopy(ActualizarLocalStorage({modal, n,data}))
     setIsModalVisible(false);
-    setContenido(1)
-    console.log(contenido)
+    
   };
 
   //Pinta la tabla
@@ -62,17 +60,25 @@ const rowEvents=e=>{
               }}
             >
               <Column title="Número" key="key" dataIndex="key" />
-              <Column title="Nombre(s)" dataIndex="firstName" key="firstName" />
-              <Column title="Apellido Paterno" dataIndex="apellidoPaterno" key="apellidoPaterno" />
-              <Column title="Apellido Materno" dataIndex="apellidoMaterno" key="apellidoMaterno" />
+              <Column title="Nombre(s)" dataIndex="nombre" key="nombre" />
+              <Column title="Apellido Paterno" dataIndex="apellidoP" key="apellidoP" />
+              <Column title="Apellido Materno" dataIndex="apellidoM" key="apellidoM" />
               <Column title="Email" dataIndex="email" key="email" />
               <Column title="Telefono" dataIndex="telefono" key="telefono" />
-              <Column title="Deuda en MXN" dataIndex="debt" key="debt" />
+              <Column title="Deuda en MXN" dataIndex="total" key="total" />
+              <Column title="Debe" dataIndex="deuda" key="deuda" />
             
           </Table>
-          <Modal title="Students Modal" visible={isModalVisible} onOk={handleOk} onCancel={handleCancel}>
+          <Modal 
+            title="Students Modal" 
+            visible={isModalVisible} 
+            onOk={handleEdit} 
+            onCancel={handleBorrar} 
+            okText='Guardar'
+            cancelText='Borrar Alumno'
+            >
 
-              <AppModal data={modal} cont={contenido}/>
+              <DatosAlumno data={modal} setModal={setModal} />
           </Modal>
           
     </>
