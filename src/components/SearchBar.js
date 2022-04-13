@@ -17,7 +17,7 @@ export const SearchBar = () => {
     }
   
     
-  }, [filtro,datacopy])
+  }, [filtro,datacopy,setFiltro])
 
   useEffect(() => {
     //const newdata=JSON.parse(localStorage.getItem('datos'));
@@ -26,7 +26,7 @@ export const SearchBar = () => {
     
   
     
-  }, [datacopy])
+  }, [datacopy, setFiltro])
   
   const hanldeChange= e=>{
     const name=e.target.value;
