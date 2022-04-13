@@ -1,20 +1,22 @@
 
-import React, { useEffect} from 'react'
+import React, { useContext, useEffect} from 'react'
+import DatosContext from '../context/DatosProvider'
 
 
 
-export const DatosAlumno = ({data,setModal}) => {
+export const DatosAlumno = () => {
 
-  
+  const context=useContext(DatosContext);
+  const {modal, setModal}=context;
   
   useEffect(() => {
-    setModal(data)
-  }, [data, setModal])
+    setModal(modal)
+  }, [modal, setModal])
   
 
   const handleChange=(e)=>{
     setModal({
-      ...data,
+      ...modal,
       [e.target.name]:e.target.value
     })
    
@@ -23,13 +25,13 @@ export const DatosAlumno = ({data,setModal}) => {
 
   return (
     <>
-              <h3 className='modal-grid'>ID: <span>{data.key}</span> </h3>
+              <h3 className='modal-grid'>ID: <span>{modal.key}</span> </h3>
               <h3 className='modal-grid'>Nombre: 
                     <form>
                         <input 
                         type='text'
                         name='nombre'
-                        value={data.nombre}
+                        value={modal.nombre}
                         autoComplete='off'
                         onChange={handleChange}   
                         />
@@ -40,7 +42,7 @@ export const DatosAlumno = ({data,setModal}) => {
                         <input 
                         type='text'
                         name='apellidoP'
-                        value={data.apellidoP}
+                        value={modal.apellidoP}
                         autoComplete='off'
                         onChange={handleChange}
                         />
@@ -51,7 +53,7 @@ export const DatosAlumno = ({data,setModal}) => {
                         <input 
                         type='text'
                         name='apellidoM'
-                        value={data.apellidoM}
+                        value={modal.apellidoM}
                         autoComplete='off'
                         onChange={handleChange} 
                         />
@@ -62,7 +64,7 @@ export const DatosAlumno = ({data,setModal}) => {
                         <input 
                         type='text'
                         name='email'
-                        value={data.email}
+                        value={modal.email}
                         autoComplete='off'
                         onChange={handleChange}
                         />
@@ -73,7 +75,7 @@ export const DatosAlumno = ({data,setModal}) => {
                         <input 
                         type='text'
                         name='telefono'
-                        value={data.telefono}
+                        value={modal.telefono}
                         autoComplete='off'
                         onChange={handleChange}
                         />
@@ -84,7 +86,7 @@ export const DatosAlumno = ({data,setModal}) => {
                         <input 
                         type='text'
                         name='deuda'
-                        value={data.total}
+                        value={modal.total}
                         autoComplete='off'
                         onChange={handleChange}          
                         />
@@ -95,7 +97,7 @@ export const DatosAlumno = ({data,setModal}) => {
                         <input 
                         type='text'
                         name='debe'
-                        value={data.deuda}
+                        value={modal.deuda}
                         autoComplete='off'
                         onChange={handleChange}          
                         />

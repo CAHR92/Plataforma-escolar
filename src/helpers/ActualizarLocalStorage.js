@@ -1,6 +1,6 @@
 
 
-export const ActualizarLocalStorage = ({modal,n,data}) => {
+export const ActualizarLocalStorage = ({modal,n,filtro}) => {
     
     const {key}=modal;
     console.log(modal)
@@ -8,7 +8,7 @@ export const ActualizarLocalStorage = ({modal,n,data}) => {
 
     console.log(n)
     if(n===1){
-        usuarios=data.map((dat)=>{
+        usuarios=filtro.map((dat)=>{
             
             return dat.key===key ? modal : dat; 
         })
@@ -17,7 +17,7 @@ export const ActualizarLocalStorage = ({modal,n,data}) => {
     
 
     if(n===2){
-        usuarios = data.filter((usr)=> usr.key !== key);
+        usuarios = filtro.filter((usr)=> usr.key !== key);
       
     
     }

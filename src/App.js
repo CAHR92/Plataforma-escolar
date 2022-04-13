@@ -10,16 +10,21 @@ import { Students } from './components/Students';
 
 
 
+
 export const App = () => {
   
 
   return (
+  
     <Router>
       <div className='nav'>
         <nav className='navigation'>
+          
             <Link className='link' to='/student' element={<Students />}>Alumnos</Link>
             <Link className='link' to='/about' element={<About />}>About</Link>
             <Link className='link' to='/login' element={<Login />}>Login</Link>
+         
+            
             
         </nav>
       </div>
@@ -33,7 +38,7 @@ export const App = () => {
           </Routes>
       </div>
     </Router>
-    
+ 
      
   )
 }

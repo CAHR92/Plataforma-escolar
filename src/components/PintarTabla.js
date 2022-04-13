@@ -1,43 +1,45 @@
-import React, { useState } from 'react'
+import React, { useContext, useState } from 'react'
 import {  Table } from 'antd';
 import { Modal} from 'antd';
 import 'antd/dist/antd.css';
 import { ActualizarLocalStorage } from '../helpers/ActualizarLocalStorage';
 import { DatosAlumno } from './DatosAlumno';
+import DatosContext from '../context/DatosProvider';
 
 
 
 
 
 
-export const PintarTabla = ({data, setFiltro, setDatacopy}) => {
+export const PintarTabla = () => {
 
 
   //LLama el modal
 
-  const [isModalVisible, setIsModalVisible] = useState(false);
+ const context=useContext(DatosContext);
 
-  
+ const {modal, setModal, filtro, setDatacopy}=context;
+ const [isModalVisible, setIsModalVisible] = useState(false);
   const showModal = () => {
     setIsModalVisible(true);
   };
 
   const handleEdit = () => {
     const n=1;
-    setDatacopy(ActualizarLocalStorage({modal, n,data}))
+    setDatacopy(ActualizarLocalStorage({modal, n,filtro}))
     setIsModalVisible(false);
     
   };
 
   const handleBorrar = () => {
     const n=2;
-    setDatacopy(ActualizarLocalStorage({modal, n,data}))
+    setDatacopy(ActualizarLocalStorage({modal, n,filtro}))
     setIsModalVisible(false);
     
   };
 
   //Pinta la tabla
-const [modal, setModal] = useState({})
+
 
 const { Column} = Table;
 const rowEvents=e=>{
@@ -49,7 +51,7 @@ const rowEvents=e=>{
 
   return (
     <>
-            <Table dataSource={data} onRow={(record, rowIndex) => {
+            <Table dataSource={filtro} onRow={(record, rowIndex) => {
 
                 return {
                   onClick:(e) => {
@@ -78,7 +80,7 @@ const rowEvents=e=>{
             cancelText='Borrar Alumno'
             >
 
-              <DatosAlumno data={modal} setModal={setModal} />
+              <DatosAlumno />
           </Modal>
           
     </>
