@@ -1,5 +1,5 @@
 
-import React, { useContext, useEffect} from 'react'
+import React, { useContext} from 'react'
 import DatosContext from '../context/DatosProvider'
 
 
@@ -9,9 +9,9 @@ export const DatosAlumno = () => {
   const context=useContext(DatosContext);
   const {modal, setModal}=context;
   
-  useEffect(() => {
-    setModal(modal)
-  }, [modal, setModal])
+  // useEffect(() => {
+  //   setModal(modal)
+  // }, [modal, setModal])
   
 
   const handleChange=(e)=>{
@@ -85,7 +85,7 @@ export const DatosAlumno = () => {
                     <form>
                         <input 
                         type='text'
-                        name='deuda'
+                        name='total'
                         value={modal.total}
                         autoComplete='off'
                         onChange={handleChange}          
@@ -96,7 +96,7 @@ export const DatosAlumno = () => {
                     <form>
                         <input 
                         type='text'
-                        name='debe'
+                        name='deuda'
                         value={modal.deuda}
                         autoComplete='off'
                         onChange={handleChange}          

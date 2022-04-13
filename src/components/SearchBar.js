@@ -24,8 +24,6 @@ export const SearchBar = () => {
    
       setFiltro(datacopy)
     
-  
-    
   }, [datacopy, setFiltro])
   
   const hanldeChange= e=>{

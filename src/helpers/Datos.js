@@ -14,8 +14,8 @@ export const Datos = (students) => {
             apellidoM:secondLastName,
             email:email,
             telefono:phoneNumber,
-            deuda:debt,
-            total:total
+            deuda:debt.toString(),
+            total:total.toString()
         }
         return usuario
     })
