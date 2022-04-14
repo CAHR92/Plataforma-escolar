@@ -7,7 +7,7 @@ import { PintarTabla } from './PintarTabla';
 export const SearchBar = () => {
   
   const context=useContext(DatosContext);
-  const{filtro, setFiltro,setDatacopy,datacopy }=context;
+  const{filtro, setFiltro,datacopy }=context;
   
 
   useEffect(() => {
@@ -47,7 +47,7 @@ export const SearchBar = () => {
         </div>
         
        
-         <PintarTabla filtro={filtro} setFiltro={setFiltro} setDatacopy={setDatacopy}/>
+         <PintarTabla />
       
         
     </>

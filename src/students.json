@@ -38,7 +38,7 @@
         "name_lower": "edith",
         "lastName_lower": "de la cruz",
         "email_lower": "paomeef@yahoo.com.mx",
-        "debt": true,
+        "debt": false,
         "firstLastName_lower": "edith de la cruz",
         "fullName_lower": "edith de la cruz morales",
         "secondLastName_lower": "morales",

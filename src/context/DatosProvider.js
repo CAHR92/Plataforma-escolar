@@ -7,8 +7,13 @@ const DatosProvider=({children})=>{
 
     const data=LocalStorage();
     const [datacopy, setDatacopy] = useState(data);
-    const [modal, setModal] = useState({})
+    const [modal, setModal] = useState()
     const [filtro, setFiltro] = useState(datacopy);
+    const [isModalVisible, setIsModalVisible] = useState(false);
+    const [switch1, setSwitch1] = useState({})
+    const showModal = () => {
+        setIsModalVisible(true);
+      };
 
 
     return (
@@ -20,7 +25,12 @@ const DatosProvider=({children})=>{
                 modal,
                 setModal,
                 filtro,
-                setFiltro
+                setFiltro,
+                isModalVisible,
+                setIsModalVisible,
+                showModal,
+                switch1,
+                setSwitch1
             }}
         >
             {children}

@@ -1,12 +1,12 @@
 
 
-export const ActualizarLocalStorage = ({modal,n,filtro}) => {
+export const ActualizarLocalStorage = (modal,n,filtro) => {
     
     const {key}=modal;
-    console.log(modal)
+    //console.log(modal)
     let usuarios=[];
 
-    console.log(n)
+    //console.log(n)
     if(n===1){
         usuarios=filtro.map((dat)=>{
             
